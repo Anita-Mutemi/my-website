@@ -2,10 +2,16 @@ nav a{
     color: #322c2c;
     text-decoration: dotted;
 }
-
+.name img{
+    width: 90px;
+    position: relative;
+    left: 20px;
+    top: 20px;
+}
 nav ul{
     list-style-type: none;
     font-size: 26px;
+    font-weight: 28px;
     display: flex;
     position: relative;
     top: 0px;
@@ -20,15 +26,16 @@ nav ul li{
 body{
     background-color: rgba(128, 128, 128, 0.083);
     font-style: Arial;
+    width:fit-content
 }
 .himage{
     position:absolute;
     top:0;
     right:0;
-    height:100vh;
-    width:100%;
+    height:101vh;
+    width:105%;
     object-fit: cover;
-    opacity:0.2;
+    opacity:0.35;
 }
 
 .profile{
@@ -36,7 +43,7 @@ body{
     display:block;
     top: 420px;
     left:0px;
-    width: 100vh;
+    width: 50vh;
     object-fit: cover;
     opacity:10;
 }
@@ -44,10 +51,40 @@ body{
     font-family:Arial;
     position: absolute;
     top:14%;
-    right:25%;
+    right:20%;
     font-size: 24px;
 }
 
-.pcontainer{
-    
+.second,
+.first{
+    border: 4px solid hsl(0, 0%, 50%);
+    padding: 10px;
+    background-color: rgba(231, 204, 151, 0.777);
+    width: 300px;
+}
+
+.project{
+    position: relative;
+    top: 451px;
+    left: 395px;
+}
+
+.title{
+    border: 4px solid hsl(0, 0%, 50%);
+    padding: 10px;
+    background-color: rgba(231, 204, 151, 0.777);
+    width: 300px;
+    font-size: large;
+}
+
+.p1header,
+.p2header{
+    font-size: large;
+    display: flex;
+    flex: right;
+}
+span{
+    position: relative;
+    left: 29px;
+    top: 5px;
 }
