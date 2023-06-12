@@ -1,5 +1,5 @@
 nav a{
-    color: #322c2c;
+    color: #000;
     text-decoration: dotted;
 }
 .name img{
@@ -50,8 +50,8 @@ body{
 .name{
     font-family:Arial;
     position: absolute;
-    top:14%;
-    right:28%;
+    top:16%;
+    right:14%;
     font-size: x-large;
     color: black;
 }
@@ -91,14 +91,11 @@ span{
 }
 
 .abtme{
-    border: 4px solid rgba(231, 204, 151, 0.777);
-    padding: 10px;
-    background-color: hsl(0, 0%, 50%);
-    width: 700px;
     position: relative;
     left: 1000px;
     top: -270px;
     font-size:x-large;
+    line-height: 26px;
 }
 
 .contacts {
@@ -116,7 +113,7 @@ span{
     margin-left: 10px;
     position: relative;
     top: 349px;
-    right: -65%;
+    right: -90%;
     padding: 10px 20px;
     background-color: rgba(231, 204, 151, 0.777);
     color: black;
@@ -129,4 +126,48 @@ span{
 .email-button:hover,
 .phone-link:hover {
     background-color: lightcoral;
+}
+
+.sskills{
+    position: relative;
+    top: -900px;
+    left: 90px;
+    width: 150px;
+    height: 150px;
+    background-color: rgba(231, 204, 151, 0.777);
+    border-radius: 50%;
+}
+.sskills ul{
+    list-style-type: none;
+    position: relative;
+    top: 37px;
+    left: -12px;
+}
+
+.sskills p{
+    position: relative;
+    top: 40px;
+    left: 26px;
+}
+
+.hskills{
+    position: relative;
+    top: -560px;
+    left: 250px;
+    width: 170px;
+    height: 170px;
+    background-color: rgba(231, 204, 151, 0.777);
+    border-radius: 50%;
+}
+.hskills ul{
+    list-style-type: none;
+    position: relative;
+    top: 33px;
+    left: 0px;
+}
+
+.hskills p{
+    position: relative;
+    top: 40px;
+    left: 40px;
 }
