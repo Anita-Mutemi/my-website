@@ -1,3 +1,50 @@
-a.hover{
-    color: aquamarine;
+
+nav a{
+    color: #322c2c;
+    text-decoration: dotted;
+}
+
+nav ul{
+    list-style-type: none;
+    font-size: 26px;
+    display: flex;
+    position: relative;
+    top: 0px;
+    right: -1100px;
+    bottom: 0px;
+    align-items: center;
+    width: 100%;
+}
+nav ul li{
+    margin-right: 60px;
+}
+body{
+    background-color: rgba(128, 128, 128, 0.083);
+    font-style: Arial;
+}
+.himage{
+    position:absolute;
+    top:0;
+    right:0;
+    height:100vh;
+    width:100%;
+    object-fit: cover;
+    opacity:0.2;
+}
+
+.profile{
+    position:absolute;
+    display:block;
+    top: 420px;
+    left:0px;
+    width: 100vh;
+    object-fit: cover;
+    opacity:10;
+}
+.name{
+    font-family:Arial;
+    position: absolute;
+    top:14%;
+    right:25%;
+    font-size: 24px;
 }
