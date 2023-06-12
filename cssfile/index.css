@@ -26,16 +26,18 @@ nav ul li{
 body{
     background-color: rgba(128, 128, 128, 0.083);
     font-style: Arial;
-    width:fit-content
+    width:fit-content;
+    height: 90vh;
 }
 .himage{
     position:absolute;
     top:0;
     right:0;
-    height:101vh;
+    max-height:101vh;
     width:105%;
     object-fit: cover;
     opacity:0.35;
+    overflow: auto;
 }
 
 .profile{
