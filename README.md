@@ -1,6 +1,6 @@
 # Anita Portfolio
 
-A personal portfolio website is a professional website that provides information about what you do, what services you may offer, and how to contact you or your company. Portfolio websites are an easy way to promote yourself, your brand, or your business.
+A personal website is a professional website that provides information about what you do, what services you may offer, and how to contact you or your company. Portfolio websites are an easy way to promote yourself, your brand, or your business.
 
 ## Description
 
@@ -12,9 +12,10 @@ To set up the portfolio website, follow these steps:
 
 1. Format the HTML file by including relevant elements.
 2. Format the CSS file for the website's design.
-3. Use an external Git repository and provide the SSH path.
-4. Make at least 20 commits in Git, with each change.
-5. Push your commands and run the HTML and CSS files in a valid browser to view your website.
+3. Format the JS file for the website's design.
+4. Use an external Git repository and provide the SSH path.
+5. Make at least 20 commits in Git, with each change.
+6. Push your commands and run the HTML and CSS files in a valid browser to view your website.
 
 ## Design
  ![radmeimage](https://github.com/Anita-Mutemi/tilegame/assets/132679576/38a8e31d-456a-4f3a-be48-f2b4ed9fd064)
