@@ -23,11 +23,11 @@ To set up the portfolio website, follow these steps:
 
 ## Technologies Used
 
-The portfolio website is built using custom HTML and CSS. The following languages and tools were used:
+The portfolio website is built using custom HTML, JavaScript and CSS. The following languages and tools were used:
 
 - HTML5
 - CSS3
-
+- Java Script
 - VS Code
 - Git
 
