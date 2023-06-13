@@ -17,7 +17,8 @@ To set up the portfolio website, follow these steps:
 5. Push your commands and run the HTML and CSS files in a valid browser to view your website.
 
 ## Design
- ![](design.png)
+ ![radmeimage](https://github.com/Anita-Mutemi/tilegame/assets/132679576/38a8e31d-456a-4f3a-be48-f2b4ed9fd064)
+
 - The design for the portfolio website can be found in the attached image.
 
 ## Technologies Used
@@ -26,6 +27,7 @@ The portfolio website is built using custom HTML and CSS. The following language
 
 - HTML5
 - CSS3
+
 - VS Code
 - Git
 
