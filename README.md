@@ -34,7 +34,7 @@ The portfolio website is built using custom HTML, JavaScript and CSS. The follow
 
 ## Contact
 
-In case of any issues or questions regarding the application, you can reach out to the Moringa School website for support.
+In case of any issues or questions regarding the information given, you can reach out to the Moringa School website for support.
 
 ## License
 
